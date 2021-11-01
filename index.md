@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Portfolio repository
+
+I will be posting my projects here in the future
+
+Find me on [LinkedIn](https://www.linkedin.com/in/boris-radosavljevic-a5838127/)
+
+
 You can use the [editor on GitHub](https://github.com/bradosav/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
